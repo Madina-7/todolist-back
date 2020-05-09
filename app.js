@@ -11,23 +11,19 @@ const TaskModel = require('./models/task.model');
 var todos = [
   {
       'title':'Learn what is angular, node',
-      'completed': false,
-      'id':1
+      'completed': false
   },    
   {
       'title':'How to use angular',
-      'completed': false,
-      'id':2
+      'completed': false
   },
   {
       'title':'Create server in node, app in angular',
-      'completed': false,
-      'id':3
+      'completed': false
   },
   {
       'title':'Create database and connect to server',
-      'completed': false,
-      'id':4
+      'completed': false
   }
  ];
 
